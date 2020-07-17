@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon SageMaker Examples
 
 This repository contains example notebooks that show how to apply machine learning and deep learning in [Amazon SageMaker](https://aws.amazon.com/sagemaker)
@@ -223,3 +224,7 @@ These Amazon SageMaker examples fully illustrate a concept, but may require some
 *How do I contribute my own example notebook?*
 
 - Although we're extremely excited to receive contributions from the community, we're still working on the best mechanism to take in examples from external sources.  Please bear with us in the short-term if pull requests take longer than expected or are closed.
+=======
+# amazon-sagemaker-labs
+This repository contains Amazon SageMaker tutorials
+>>>>>>> 95040d1d209d9516e3c7c49390cb1c017bc24f33
